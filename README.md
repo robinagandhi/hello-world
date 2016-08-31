@@ -7,3 +7,5 @@ Their student group NuLLIFY hosts a high school CTF competition every year. Here
 You can find more information at http://ctf.nullify.uno/. They are hosting the high school CTF again this year.
 
 Nullify meets on Monday's at 8:15 pm
+
+Feedback on Github Primer: I find it easy but some commands are different for some consoles like cloud9. It is a great tutorial for beginners though.
