@@ -7,3 +7,5 @@ Their student group NuLLIFY hosts a high school CTF competition every year. Here
 You can find more information at http://ctf.nullify.uno/. They are hosting the high school CTF again this year.
 
 Nullify meets on Monday's at 8:15 pm
+
+Github primer is easy
