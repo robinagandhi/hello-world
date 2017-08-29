@@ -5,3 +5,5 @@ Hey there! Have you heard about the Cybersecurity program at the University of N
 Their student group NuLLIFY hosts a high school CTF competition every year.
 You can find more information at http://ctf.nullify.uno/. They will be hosting another high school CTF again this year.
 It is tentatively scheduled for November 18th, 2017. 
+
+This is a test code change to submit a pull request due August 30, 2017. - Lisa Zilli
