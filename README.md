@@ -15,3 +15,6 @@ https://www.unomaha.edu/college-of-information-science-and-technology/engagement
 
 Student doing masters in Computer Science can also refer the below link to check what CyberSecurity Program has to offer them.
 https://www.unomaha.edu/college-of-information-science-and-technology/school-of-interdisciplinary-informatics/cybersecurity/ms-cybr.php
+
+The University of Nebraska at Omaha has been named a Center of Academic Excellence in Information Assurance Education by the National Security Agency (NSA).
+For more information look at https://www.unomaha.edu/college-of-information-science-and-technology/academics/cybersecurity.php
