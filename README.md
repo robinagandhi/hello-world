@@ -7,7 +7,7 @@ Hey there! Have you heard about the Cybersecurity program at the University of N
 The NSA Designates UNO as a National Center of Academic Excellence in Cyber Operations. You can find more information at https://www.unomaha.edu/college-of-information-science-and-technology/news/2017/05/nsa-cybr-ops-designation.php
 
 Their student group NuLLIFY hosts a high school CTF competition every year.
-You can find more information at http://ctf.nullify.uno/. They will be hosting another high school CTF again this year.
+You can find more information at http://ctf.nullify.uno/. They will be hosting another high school CTF again this year. https://www.unomaha.edu/college-of-information-science-and-technology/engagement/nullfy-ctf.php
 
 It is tentatively scheduled for November 18th, 2017.
 
