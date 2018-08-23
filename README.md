@@ -4,6 +4,9 @@ The 2017 GenCyber Camp runs July 24th - August 4th for teachers from middle or h
 
 Hey there! Have you heard about the Cybersecurity program at the University of Nebraska at Omaha? You should check it out! https://www.unomaha.edu/college-of-information-science-and-technology/academics/cybersecurity.php
 
+Their student group NuLLIFY hosts a high school CTF competition every year. Here is the website:
+https://www.unomaha.edu/college-of-information-science-and-technology/engagement/nullify-ctf.php
+
 The NSA Designates UNO as a National Center of Academic Excellence in Cyber Operations. You can find more information at https://www.unomaha.edu/college-of-information-science-and-technology/news/2017/05/nsa-cybr-ops-designation.php
 
 Their student group NuLLIFY hosts a high school CTF competition every year.
