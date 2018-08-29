@@ -19,4 +19,6 @@ https://www.unomaha.edu/college-of-information-science-and-technology/school-of-
 
 Looking for an IT job?  Opportunities can be found at https://www.unomaha.edu/college-of-information-science-and-technology/student-involvement/full-time-it.php
 
+Their student group NuLLIFY hosts a high school CTF competition every year. -em
+
 Hello. This is from 6/19/18
