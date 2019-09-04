@@ -14,3 +14,5 @@ Student doing masters in Computer Science can also refer the below link to check
 https://www.unomaha.edu/college-of-information-science-and-technology/school-of-interdisciplinary-informatics/cybersecurity/ms-cybr.php
 
 Looking for an IT job?  Opportunities can be found at https://www.unomaha.edu/college-of-information-science-and-technology/student-involvement/full-time-it.php
+
+This year's Nullify Capture the Flag Event will be hosted in February. Check out the details here: https://www.unomaha.edu/college-of-information-science-and-technology/news/events/2019/02/nullify2019.php
