@@ -15,4 +15,5 @@ https://www.unomaha.edu/college-of-information-science-and-technology/school-of-
 
 Looking for an IT job?  Opportunities can be found at https://www.unomaha.edu/college-of-information-science-and-technology/student-involvement/full-time-it.php
 
-2020 SIGITE Conference:October 7-10
+2020 Grace Hopper Conference
+https://docs.google.com/forms/d/e/1FAIpQLSdoE3HEubEbLDfDlXzkJASF8HezU4btJ24kSvcZDzo3AanJ4w/viewform
