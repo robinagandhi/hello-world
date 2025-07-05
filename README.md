@@ -5,3 +5,5 @@ The NSA Designates UNO as a National Center of Academic Excellence in Cyber Oper
 
 Their student group NuLLIFY hosts a high school CTF competition every year.
 You can find more information at http://ctf.nullify.uno/. They will be hosting another high school CTF again this year.
+
+Automating your workflow with GitHub Actions can save time, reduce errors, and help your repository stay organized.
